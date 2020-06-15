@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gugi&family=Josefin+Sans&display=swap');
+
+body {
+  background-color: green;
+  background-image: url("../assets/mnt.png");
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: 0 350px !important;
+}
+
+.btn {
+  background-color: black !important;
+  color: white !important;
+  margin-top: 22px;
+}
+
+.fadein {
+  animation: fadeIn 1000s ease 0s 1 normal;
+  -webkit-animation: fadeIn 1s ease 0s 1 normal;
+}
+
+.ccontainer{
+  background-color: green !important;
+
+  margin-top: 100px;
+
+  color: white;
+}
+#timer{
+  background-color: rgb(105, 8, 8);
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#playerscore, #pcscore {
+  font-family: 'Josefin Sans', sans-serif;
+  color: white !important;
+  max-width: 155px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  margin-bottom: -255px;
+  
+}
+.row {
+  margin-top: 48px;
+  max-width: 555px;
+}

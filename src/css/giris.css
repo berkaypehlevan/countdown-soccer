@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gugi&family=Josefin+Sans&display=swap');
+
+body {
+  background-color: green;
+  background-image: url("../assets/mnt.png");
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: 0 350px !important;
+}
+
+.title {
+  font-family: 'Gugi', cursive;
+  color: white;
+  background-color: rgb(105, 8, 8);
+  height: fit-content;
+  width: 50% !important;
+  margin-top: 15% !important;
+  margin: auto;
+  
+}
+
+.desc {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 15px;
+  color: white !important;
+  width: 50% !important;
+  height: min-content;
+  margin: auto;
+}
+
+.btn {
+  background-color: black !important;
+  max-width: 48px;
+  color: white !important;
+}
+
+.fadein {
+  animation: fadeIn 1000s ease 0s 1 normal;
+  -webkit-animation: fadeIn 1s ease 0s 1 normal;
+}
