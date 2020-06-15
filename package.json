@@ -1,8 +1,8 @@
 {
-  "name": "saatfutbolu",
-  "productName": "saatfutbolu",
+  "name": "countdown-soccer",
+  "productName": "countdown soccer",
   "version": "1.0.0",
-  "description": "oyun",
+  "description": "Countdown Soccer was a game for late 90's/early 2000's kids who was bored at math classes.",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
