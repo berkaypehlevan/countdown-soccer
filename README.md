@@ -1,9 +1,9 @@
-###Game is developed with ElectronJS / jQuery / HTML5 and Materialize CSS.
+Game is developed with ElectronJS / jQuery / HTML5 and Materialize CSS.
 
-##This is my first game.
+This is my first game.
 
-##I hope you like it.
+I hope you like it.
 
-##For Try 
+For Try 
 
-##https://berkay-pehlevan.itch.io/countdown-soccer
+https://berkay-pehlevan.itch.io/countdown-soccer
